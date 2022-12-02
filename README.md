@@ -3,7 +3,7 @@
 
 **cybersoldattech**
 
-- 🏬 I’m currently working on **@shopperlabs**
+- 🏬 I’m currently working on **LONDO TECHNOLOGY**
 - 💡 I love programming, cybersecurity and books
 - 🔭 I’m currently addicted to learning and growing every day 
 <!--
