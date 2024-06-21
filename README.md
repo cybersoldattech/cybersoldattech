@@ -3,7 +3,7 @@
 
 **cybersoldattech**
 
-- 🏬 I’m currently working on **LONDO TECHNOLOGY**
+<!-- 🏬 I’m currently working on **** -->
 - 💡 I love programming, cybersecurity and books
 - 🔭 I’m currently addicted to learning and growing every day 
 <!--
