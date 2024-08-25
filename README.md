@@ -16,6 +16,11 @@
 
 [![cybersoldattech github stats](https://github-readme-stats.vercel.app/api?username=cybersoldattech&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/cybersoldattech/github-readme-stats)
 
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersoldattech)](https://github.com/cybersoldattech/github-readme-stats)-->
+
+
+
+
 <hr>
 <h1 align="center">Technical skills</h1>
 <h3>Technologies</h3>
